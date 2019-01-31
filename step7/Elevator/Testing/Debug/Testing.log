@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  CControllerTest.cpp
+  CElevatorControllerTest.cpp
+  CElevatorWndTest.cpp
+  initialize.cpp
+  Generating Code...
+     Creating library C:\Users\mauryada\Downloads\step7\CSE-335-master\step7\Elevator\Debug\Testing.lib and object C:\Users\mauryada\Downloads\step7\CSE-335-master\step7\Elevator\Debug\Testing.exp
+  Testing.vcxproj -> C:\Users\mauryada\Downloads\step7\CSE-335-master\step7\Elevator\Debug\Testing.dll
