@@ -1,0 +1,4 @@
+﻿  Roller.cpp
+c:\users\mauryada\downloads\canadianexperience\machinelib\roller.cpp(37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\mauryada\downloads\canadianexperience\machinelib\roller.cpp(39): warning C4244: 'argument': conversion from 'float' to 'INT', possible loss of data
+  MachineLib.vcxproj -> C:\Users\mauryada\Downloads\CanadianExperience\Debug\MachineLib.dll
